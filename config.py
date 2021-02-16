@@ -1,2 +1,2 @@
 # Enter your API key
-gkey = "A"
+gkey = "g"
