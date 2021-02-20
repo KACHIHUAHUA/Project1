@@ -12,6 +12,6 @@ In MAIN the file Project 1 Presentation.pdf is included, which is the presentati
 
 How to run it:
 
-1.Go to the Jupyter notebooks folder, configure the config.py file with the GOOGLE KEY. 
+1.Go to the Jupyter notebooks folder, configure the config.py file with the GOOGLE KEY.                                              
 2.Run the notebooks in order of numbering.
 
